@@ -4,7 +4,7 @@ Website for the Web Design Da Nang community
 ## Features
 
 - Meetup.com page
-- Facebook page
+- Facebook page: https://www.facebook.com/Web-Design-Danang-663525873779096/ (ugly URL for the time being till the page reaches 25 likes)
 
 - **Create Github organisation**
 	- ~~Repo for website~~
